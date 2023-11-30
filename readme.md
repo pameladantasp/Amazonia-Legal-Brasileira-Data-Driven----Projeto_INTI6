@@ -11,4 +11,4 @@
 
 > `ADS - IFSP - Campus Campinas`
 
-> Autores: Pamela Dantas, Matheus Tosi
+> Autora: Pamela Dantas
