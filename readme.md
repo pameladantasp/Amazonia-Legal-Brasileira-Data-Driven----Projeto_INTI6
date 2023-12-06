@@ -2,9 +2,6 @@
 
 ![Badge Done](http://img.shields.io/static/v1?label=STATUS&message=WORKING&color=blue&style=for-the-badge)
 
-📌 Branch atual: **Pré-processamento**
-
-
 > Projeto disciplinar INTI6 - Inteligência Artificial: Aplicar técnicas de Ciência de Dados em um dataset.  
 
 > `Python` `Jupyter Notebook`
